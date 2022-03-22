@@ -1,5 +1,5 @@
 # Games-CE
-These files will need to be installed, and instructions will be provided in HI.pdf.
+These files will need to be installed, and instructions will be provided in [HI.pdf](url).
 
 In order to transfer these files you will need the correct TI-connect software avaliable here: 
 https://education.ti.com/en/products/computer-software/ti-connect-sw
